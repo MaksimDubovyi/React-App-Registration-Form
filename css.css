@@ -1,0 +1,22 @@
+.Myform{margin-left: 50px;
+     text-shadow: rgb(118, 114, 114) 3px 2px;
+     background: rgb(201,60,41);
+     background: linear-gradient(90deg, rgba(201,60,41,1) 28%, rgba(201,60,41,0.9472163865546218) 32%, rgba(201,60,41,0.9472163865546218) 63%, rgba(201,60,41,1) 67%, rgba(246,0,0,0.6418942577030813) 165%, rgba(0,0,0,0.028448879551820738) 165%);
+     width: 400px; padding: 20px; color: aliceblue;
+     text-align: center;
+     border-radius: 3px;  box-shadow: 15px 15px 16px rgb(119, 109, 109);}
+
+p{font-weight: 700; font-size: 18px; }
+.txt{
+     border: 1px solid rgb(201,60,41);
+      border-radius: 5px; width: 250px; 
+      height: 25px; font-size: 20px;
+     box-shadow: 0 3px 3px #575555 inset;
+     background: rgb(201,60,41);
+     background: linear-gradient(90deg, rgba(201,60,41,1) 28%,
+     rgba(201,60,41,0.9472163865546218) 32%, rgba(201,60,41,0.9472163865546218) 63%,
+     rgba(201,60,41,1) 67%, rgba(246,0,0,0.6418942577030813) 165%, rgba(0,0,0,0.028448879551820738) 165%);
+}
+.error{ font-size: 15px; text-shadow:none; color: rgb(81, 87, 80); font-weight:bolder;}
+.check{font-size: 15px; text-shadow:none; color: rgb(0, 0, 0); font-weight:bolder; }
+
