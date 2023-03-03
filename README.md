@@ -1,4 +1,4 @@
-# React-App-Registration-Form
+# [React-App-Registration-Form](https://maksimdubovyi.github.io/React-App-Registration-Form/).
 - Используя возможности React, проверить корректность заполнения 
 - регистрационной формы, исходя из следующих требований. 
 - Все элементы форм должны быть заполнены (логин, пароль, 
